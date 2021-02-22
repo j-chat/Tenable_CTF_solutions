@@ -8,7 +8,7 @@ Tenable first ever CTF was held between Thursday, February 18, 2021 at 12:00 pm 
 
 | Challenge    | Instructions    | Language | Solution | 
 | ------------- |:-------------: |:-------------:| -----:|
-| Short and Sweet   |    | Python 2.7 |  | 
-| Hello ${name}   |    | C |  | 
-| Print N Lowest Numbers   |    | C++ |  | 
-| Parsey Mcparser   |    | Python 2.7 |  | 
+| Short and Sweet   |  [ShortandSweet.txt](https://github.com/j-chat/Tenable_CTF_solutions/blob/main/2021/ShortandSweet.txt)  | Python 2.7 | [ShortandSweet.py](https://github.com/j-chat/Tenable_CTF_solutions/blob/main/2021/ShortandSweet.py) | 
+| Hello ${name}   |  [HelloName.txt](https://github.com/j-chat/Tenable_CTF_solutions/blob/main/2021/HelloName.txt)  | C | [HelloName.c](https://github.com/j-chat/Tenable_CTF_solutions/blob/main/2021/HelloName.c)  | 
+| Print N Lowest Numbers   |  [PrintNLowestNumbers.txt](https://github.com/j-chat/Tenable_CTF_solutions/blob/main/2021/PrintNLowestNumbers.txt)  | C++ | [PrintNLowestNumbers.cxx](https://github.com/j-chat/Tenable_CTF_solutions/blob/main/2021/PrintNLowestNumbers.cxx)  | 
+| Parsey Mcparser   | [ParseyMcparser.txt](https://github.com/j-chat/Tenable_CTF_solutions/blob/main/2021/ParseyMcparser.txt)  | Python 2.7 | [ParseyMcparser.py](https://github.com/j-chat/Tenable_CTF_solutions/blob/main/2021/ParseyMcparser.py)   | 
