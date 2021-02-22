@@ -1,0 +1,9 @@
+Read a string from stdin using C/C++. This string is a person's name. Please greet them politely by printing "Hello ${Name}" to stdout.
+
+stdin example:
+
+John
+
+stdout example:
+
+Hello John
